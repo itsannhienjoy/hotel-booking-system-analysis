@@ -29,7 +29,7 @@ The repository contains modular SQL scripts for ease of use and clarity
 | `4.1.sql` to `4.3.sql` | Sample data insertion scripts |
 | `5.1.sql` to `5.4.sql` | Analytical and reporting queries |
 
-## 🔍 Analytical Highlights
+## Analytical Highlights
 
 - Identify top-performing accommodations based on revenue, feedback, and bookings
 - Analyze occupancy trends by time period (daily/weekly/seasonal)
